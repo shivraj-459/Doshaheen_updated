@@ -1,0 +1,11 @@
+package com.doshaheen.service;
+
+import com.doshaheen.exception.UserException;
+import com.doshaheen.model.User;
+import com.doshaheen.model.UserDTO;
+
+public interface UserService {
+	
+	public UserDTO addUser(User user) throws UserException;
+
+}

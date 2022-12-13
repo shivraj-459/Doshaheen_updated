@@ -1,0 +1,5 @@
+package com.doshaheen.repo;
+
+public interface UserDAO {
+
+}

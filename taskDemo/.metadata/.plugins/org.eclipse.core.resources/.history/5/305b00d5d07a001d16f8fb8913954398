@@ -1,0 +1,5 @@
+package com.doshaheen.service;
+
+public class UserServiceImpl {
+
+}

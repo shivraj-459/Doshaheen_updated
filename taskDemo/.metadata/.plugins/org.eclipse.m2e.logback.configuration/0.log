@@ -1,0 +1,383 @@
+2022-12-13 15:30:34,946 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-13 15:32:09,663 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshaheen:demoProject:0.0.1-SNAPSHOT @ C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\pom.xml.
+2022-12-13 15:32:12,033 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject/src/main/java
+2022-12-13 15:32:12,035 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoProject/src/main/resources
+2022-12-13 15:32:12,053 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoProject/src/main/resources
+2022-12-13 15:32:12,072 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject/src/test/java
+2022-12-13 15:32:16,243 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2022-12-13 15:32:16,265 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-13 15:32:17,387 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshaheen:demoProject:0.0.1-SNAPSHOT @ C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\pom.xml.
+2022-12-13 15:32:18,593 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject/src/main/java
+2022-12-13 15:32:18,595 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoProject/src/main/resources
+2022-12-13 15:32:18,598 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoProject/src/main/resources
+2022-12-13 15:32:18,599 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject/src/test/java
+2022-12-13 15:32:20,493 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-12-13 15:32:22,718 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:32:22,754 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:32:22,759 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:33:27,900 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:33:27,918 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:33:27,921 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:33:35,265 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:33:35,291 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:33:35,295 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:33:53,601 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:33:53,609 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:33:53,614 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:34:07,288 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:34:07,296 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:34:07,299 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:37:58,162 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:37:58,192 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:37:58,194 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:38:14,131 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:38:14,168 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:38:14,173 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:38:31,115 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:38:31,173 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:38:31,179 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:39:35,592 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:39:35,621 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:39:35,625 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:39:51,407 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:39:51,417 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:39:51,420 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:40:10,692 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:40:10,700 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:40:10,704 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:40:50,824 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:40:50,833 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:40:50,835 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:41:05,169 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:41:05,179 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:41:05,182 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:42:24,100 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:42:24,111 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:42:24,115 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:43:06,543 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:43:06,554 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:43:06,555 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:43:29,608 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:43:29,616 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:43:29,621 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:44:17,771 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:44:17,782 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:44:17,785 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:44:55,648 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:44:55,655 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:44:55,659 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:45:16,249 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:45:16,282 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:45:16,285 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:50:08,031 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:50:08,037 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:50:08,039 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:50:24,169 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:50:24,176 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:50:24,178 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:50:39,098 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:50:39,106 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:50:39,108 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:51:08,457 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:51:08,463 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:51:08,466 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:52:16,052 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:52:16,074 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:52:16,076 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:56:57,563 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:56:57,571 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:56:57,574 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:58:06,741 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:58:06,747 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:58:06,750 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 15:58:09,450 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 15:58:09,458 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 15:58:09,460 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:00:50,647 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:00:50,654 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:00:50,656 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:01:38,219 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:01:38,227 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:01:38,229 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:01:45,027 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:01:45,034 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:01:45,037 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:04:52,803 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:04:52,810 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:04:52,812 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:06:05,020 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:06:05,025 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:06:05,028 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:08:49,123 [Worker-1: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:08:49,131 [Worker-1: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:08:49,137 [Worker-1: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:11:02,457 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:11:02,474 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:11:02,477 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:11:56,147 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:11:56,154 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:11:56,156 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:12:51,039 [Worker-10: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:12:51,045 [Worker-10: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:12:51,052 [Worker-10: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:13:29,225 [Worker-11: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:13:29,234 [Worker-11: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:13:29,236 [Worker-11: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:17:00,455 [Worker-10: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:17:00,464 [Worker-10: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:17:00,466 [Worker-10: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:17:27,438 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:17:27,446 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:17:27,448 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:19:53,894 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:19:53,910 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:19:53,912 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:20:09,571 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-13 16:20:10,314 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshaheen:demoProject:0.0.1-SNAPSHOT @ C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\pom.xml.
+2022-12-13 16:20:11,327 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject/src/main/java
+2022-12-13 16:20:11,328 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoProject/src/main/resources
+2022-12-13 16:20:11,328 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoProject/src/main/resources
+2022-12-13 16:20:11,329 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject/src/test/java
+2022-12-13 16:20:11,940 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-12-13 16:20:12,903 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:20:12,948 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:20:12,951 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:22:35,095 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshaheen:demoProject:0.0.1-SNAPSHOT @ C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\pom.xml.
+2022-12-13 16:22:35,338 [Worker-18: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 16:22:35,926 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:22:35,927 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:22:35,929 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:22:38,439 [Worker-19: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 16:22:38,564 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:22:38,598 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:22:38,601 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:23:49,394 [Worker-18: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:23:49,408 [Worker-18: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:23:49,410 [Worker-18: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:29:06,861 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:29:06,905 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:29:06,908 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:30:55,043 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:30:55,066 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:30:55,069 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:38:36,372 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshaheen:demoProject:0.0.1-SNAPSHOT @ C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\pom.xml.
+2022-12-13 16:38:36,561 [Worker-9: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 16:38:37,073 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:38:37,074 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:38:37,077 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:38:39,127 [Worker-29: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 16:38:39,237 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:38:39,269 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:38:39,272 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:38:58,792 [Worker-30: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:38:58,854 [Worker-30: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:38:58,855 [Worker-30: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:39:45,271 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-13 16:39:58,718 [Worker-1: Check for devtools] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 16:43:19,689 [Worker-7: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:43:19,717 [Worker-7: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:43:19,721 [Worker-7: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:45:15,340 [Worker-0: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:45:15,347 [Worker-0: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:45:15,351 [Worker-0: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:45:39,752 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:45:39,757 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:45:39,760 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:49:02,587 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshaheen:demoProject:0.0.1-SNAPSHOT @ C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\pom.xml.
+2022-12-13 16:49:02,893 [Worker-8: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 16:49:04,120 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:49:04,120 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:49:04,125 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:49:07,890 [Worker-9: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 16:49:08,094 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:49:08,122 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:49:08,126 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:49:17,627 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-13 16:49:18,133 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshaheen:demoProject:0.0.1-SNAPSHOT @ C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\pom.xml.
+2022-12-13 16:49:18,352 [Worker-9: Updating Maven Project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 16:49:19,208 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject/src/main/java
+2022-12-13 16:49:19,210 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoProject/src/main/resources
+2022-12-13 16:49:19,211 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoProject/src/main/resources
+2022-12-13 16:49:19,212 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject/src/test/java
+2022-12-13 16:49:20,737 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-12-13 16:49:22,335 [Worker-4: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 16:49:22,558 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:49:22,608 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:49:22,611 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:50:14,541 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:50:14,548 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:50:14,551 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:50:35,145 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:50:35,153 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:50:35,158 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:54:59,230 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshaheen:demoProject:0.0.1-SNAPSHOT @ C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\pom.xml.
+2022-12-13 16:54:59,551 [Worker-8: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 16:55:00,413 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:55:00,414 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:55:00,417 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:55:01,598 [Worker-4: Download sources and javadoc] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 16:55:02,874 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.12.RELEASE/spring-boot-starter-web-2.3.12.RELEASE-sources.jar
+2022-12-13 16:55:03,171 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:55:03,201 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:55:03,204 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:55:04,054 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.12.RELEASE/spring-boot-starter-web-2.3.12.RELEASE-sources.jar
+2022-12-13 16:55:04,526 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-web:2.3.12.RELEASE
+2022-12-13 16:55:05,431 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:55:05,432 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:55:05,435 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:55:49,950 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:55:49,956 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:55:49,958 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:56:00,042 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:56:00,051 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:56:00,054 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:56:47,641 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:56:47,647 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:56:47,650 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:57:13,219 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:57:13,227 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:57:13,229 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:57:18,519 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:57:18,612 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:57:18,620 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:57:30,601 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:57:30,607 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:57:30,609 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:57:36,436 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:57:36,444 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:57:36,447 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:57:55,764 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:57:55,790 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:57:55,792 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:58:06,468 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:58:06,475 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:58:06,478 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:58:18,479 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:58:18,489 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:58:18,491 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 16:59:23,011 [Worker-16: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 16:59:23,034 [Worker-16: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 16:59:23,036 [Worker-16: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 17:12:25,309 [Worker-21: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 17:12:25,324 [Worker-21: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 17:12:25,327 [Worker-21: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 17:13:01,616 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 17:13:01,621 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 17:13:01,625 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 17:39:50,765 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshaheen:demoProject:0.0.1-SNAPSHOT @ C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\pom.xml.
+2022-12-13 17:39:51,080 [Worker-23: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 17:39:51,693 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 17:39:51,694 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 17:39:51,697 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 17:39:53,816 [Worker-18: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 17:39:53,917 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 17:39:53,944 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 17:39:53,946 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 17:42:25,437 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 17:42:25,590 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 17:42:25,592 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 17:42:50,745 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 17:42:51,006 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 17:42:51,013 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 17:43:37,728 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 17:43:37,905 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 17:43:37,909 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 17:56:40,720 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 17:56:40,874 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 17:56:40,878 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 17:56:52,156 [Worker-28: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 17:56:52,403 [Worker-28: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 17:56:52,405 [Worker-28: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:06:33,288 [Worker-37: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:06:33,492 [Worker-37: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:06:33,500 [Worker-37: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:08:19,397 [Worker-39: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:08:19,544 [Worker-39: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:08:19,547 [Worker-39: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:09:13,885 [Worker-39: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:09:13,935 [Worker-39: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:09:13,936 [Worker-39: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:12:41,562 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:12:41,610 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:12:41,612 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:13:05,770 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:13:05,813 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:13:05,816 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:14:31,598 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:14:31,751 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:14:31,753 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:18:35,852 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:18:35,865 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:18:35,867 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:19:03,411 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:19:03,417 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:19:03,419 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:19:11,709 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:19:11,718 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:19:11,721 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:21:05,450 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:21:05,455 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:21:05,457 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:22:26,169 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:22:26,174 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:22:26,176 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:25:49,354 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:25:49,369 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:25:49,372 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:26:47,341 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-13 18:26:49,771 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshaheen:demoProject:0.0.1-SNAPSHOT @ C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\pom.xml.
+2022-12-13 18:26:51,712 [Worker-51: Updating Maven Project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 18:26:54,045 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject/src/main/java
+2022-12-13 18:26:54,046 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoProject/src/main/resources
+2022-12-13 18:26:54,046 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoProject/src/main/resources
+2022-12-13 18:26:54,047 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject/src/test/java
+2022-12-13 18:26:54,831 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2022-12-13 18:26:55,771 [Worker-58: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2022-12-13 18:26:55,956 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:26:55,983 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:26:55,998 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:27:23,365 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:27:23,371 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:27:23,373 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:27:37,832 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:27:37,869 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:27:37,871 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:27:43,148 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:27:43,155 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:27:43,157 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:28:08,252 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:28:08,298 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:28:08,300 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:28:56,828 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:28:56,839 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:28:56,843 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:29:26,650 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:29:26,656 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:29:26,657 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:29:39,620 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:29:39,627 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:29:39,634 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:29:44,871 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:29:44,894 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:29:44,896 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:31:13,566 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:31:13,573 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:31:13,575 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 18:31:28,092 [Worker-56: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 18:31:28,099 [Worker-56: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 18:31:28,101 [Worker-56: Launching demoProject - DemoProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 19:02:33,561 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 19:02:33,576 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 19:02:33,578 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 19:05:55,594 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 19:05:55,602 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 19:05:55,604 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 19:11:14,847 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 19:11:14,895 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 19:11:14,897 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 19:11:40,013 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 19:11:40,021 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 19:11:40,024 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources
+2022-12-13 19:51:16,912 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 19:51:16,940 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-13 19:51:16,945 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\OneDrive\Desktop\taskDemo\demoProject\src\test\resources

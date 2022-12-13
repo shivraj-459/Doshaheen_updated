@@ -1,0 +1,5 @@
+package com.doshaheen.model;
+
+public class UserDTO {
+
+}

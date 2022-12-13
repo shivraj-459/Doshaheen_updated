@@ -1,0 +1,29 @@
+package com.doshaheen.exception;
+
+import java.time.LocalDateTime;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.context.request.WebRequest;
+
+@ControllerAdvice
+public class GlobalExceptionHandler {
+	
+	
+	@ExceptionHandler(UserException.class)
+	public ResponseEntity<MyErrorController> userExceptionHandler(UserException ue,WebRequest web){
+		
+		
+		MyErrorController errorController=new MyErrorController();
+		
+		
+		errorController.setTimeStamp(LocalDateTime.now());
+		errorController.setMessage(ue.getMessage());
+		errorController.setDetails(web.getDescription(false));
+		
+		return new ResponseEntity<MyErrorController>(errorController,HttpStatus.BAD_REQUEST);
+	}
+
+}
